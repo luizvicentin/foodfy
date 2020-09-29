@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafios Módulo 2 - Iniciando no Front-end
+  Desafio Módulo 2 - Construir a página do Foodfy
 </h3>
 
 <blockquote align="center">“Faça seu melhor, mas sempre com prazo de entrega!”</blockquote>
