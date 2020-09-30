@@ -9,3 +9,32 @@
 html {
     font-family: 'Roboto', sans-serif;
 }
+
+main {
+    margin: 8px auto;
+}
+
+section {
+    padding-bottom: 8px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #111;
+    line-height: 34px; 
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 700;
+    color: #111;
+    line-height: 30px; 
+}
+
+section p {
+    font-size: 18px;
+    color: #444;
+    line-height: 28px;
+    margin: 32px 0;
+}
