@@ -110,7 +110,9 @@ header {
     margin-bottom: 16px;
 }
 
-.card_img_container {
+.card_img_container img {
+    width: 300px;
+    border-radius: 15px;
     margin-bottom: 16px;
 }
 
@@ -125,7 +127,7 @@ header {
     color: #777;
 }
 /*== End Main ==*/
-/*== Footer ==*/
+
 .footer {
     margin-top: 32px;
     background: #eee;
