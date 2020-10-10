@@ -18,40 +18,46 @@ img:hover {
 /*=== Modal ===*/
 .modal-overlay {
     background-color: rgba( 0, 0, 0, 0.8);
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 100%;
     position: fixed;
-    margin: auto;
     top: 0;
     opacity: 0;
     visibility: hidden;
 }
 
 .modal {
-    background-color: var(--color-modal);
-    width: 660px;
-    height: 413px;
-    margin: 5vh auto;
+    background-color: #fff;
+    width: 60%;
+    height: 60%;
+    margin: 24vh auto;
     position: relative;
+    border-radius: 16px;
 }
 
 .modal .close-modal {
-    color: var(--color-black);
+    color: #000;
     position: absolute;
-    right: 4px;
-    top: 4px;
+    right: 8px;
+    top: 8px;
     cursor: pointer;
 }
-
 /*=== Modal.Active ===*/
 .modal-overlay.active {
     opacity: 1;
     visibility: visible;
 }
 
-.modal-content iframe {
+iframe {
     width: 100%;
     height: 90%;
     position: absolute;
     top: 5%;    
 }
+/*=== END - CARDS ===*/
+/*=== CONTENT ===*/
+.focus {
+    max-width: 850px;
+    margin: 20px auto;
+    background: var(--color-rocket);
+} 
