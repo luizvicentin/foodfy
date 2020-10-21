@@ -10,8 +10,8 @@
 
 <p align="center">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%23F8952D">
+  <a href="https://www.linkedin.com/in/luizvicentin/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Luiz%20Vicentin-%23006097">
   </a>
 
   <a href="LICENSE" >
